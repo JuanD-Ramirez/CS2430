@@ -1,0 +1,21 @@
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Build directories
+bin/
+obj/
+build/
+dist/
+
+# Node modules
+node_modules/
+
+# Temporary files
+*.tmp
+*.swp
