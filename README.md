@@ -18,8 +18,6 @@ CS2430/
     └── README.md
 ```
 
-## Root README.md
-
 # Juan Ramirez
 
 **Course:** CS 2430  
